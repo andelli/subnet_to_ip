@@ -38,4 +38,3 @@ expanded_csv_file_path = 'IP-Addresses.csv'
 
 # Save the expanded DataFrame to a CSV file
 expanded_df.to_csv(expanded_csv_file_path, index=False)
-print(pd.__version__)
